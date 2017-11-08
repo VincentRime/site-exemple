@@ -1,0 +1,6 @@
+D:\Git\bin\Debug\Additioneur.exe.config
+D:\Git\bin\Debug\Additioneur.exe
+D:\Git\bin\Debug\Additioneur.pdb
+D:\Git\obj\Debug\Additioneur.csprojResolveAssemblyReference.cache
+D:\Git\obj\Debug\Additioneur.exe
+D:\Git\obj\Debug\Additioneur.pdb

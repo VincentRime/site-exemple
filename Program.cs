@@ -11,6 +11,11 @@ namespace Additioneur
         static void Main(string[] args)
         {
             Console.WriteLine("fs");
+            Console.WriteLine("Saisir une valeur numerique");
+            double dblval1 = Convert.ToDouble(Console.ReadLine());
+            dblval1++;
+            Console.WriteLine(dblval1);
+            Console.ReadKey();
         }
     }
 }
