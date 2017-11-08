@@ -10,6 +10,7 @@ namespace Additioneur
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("fs");
         }
     }
 }
